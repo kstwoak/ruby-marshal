@@ -3,7 +3,7 @@
 Parse Ruby Marshal Binary Data.
 
 ```
-go get github.com/dozen/ruby-marshal
+go get  github.com/kstwoak/ruby-marshal-go
 ```
 
 ## Example
@@ -28,3 +28,4 @@ Follow [marshal_test.go](marshal_test.go).
 
 * [rainerborene/rum](https://github.com/rainerborene/rum)
 * [instore/node-marshal](https://github.com/instore/node-marshal)
+* [dozen/ruby-marshal](https://github.com/dozen/ruby-marshal)
